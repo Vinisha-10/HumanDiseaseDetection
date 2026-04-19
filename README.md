@@ -2,7 +2,7 @@
 
 This repository contains the code for a web application that predicts human diseases based on symptoms. The application is built with Streamlit, and the core functionality is powered by several machine learning models.
 
-Author: Vinisha Singh
+Author: Vinisha Singh & Chitresh Mathur
 
 ## Features
 This project have the following features:
