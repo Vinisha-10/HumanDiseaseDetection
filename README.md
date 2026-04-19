@@ -19,6 +19,10 @@ The project is structured to organize data and models for easy access:
 - datasets/: This directory stores the data, including a CSV file of medical symptoms and diseases used for training the models.
 - artifacts/: This directory contains the trained machine learning models, which are loaded by the app.py script to make predictions.
 
+## Deployed Application
+
+Link - https://humandiseasedetectionbyvinisha.streamlit.app/
+
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements.
