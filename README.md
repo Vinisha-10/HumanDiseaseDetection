@@ -25,6 +25,8 @@ Built with **Streamlit**, it leverages multiple machine learning models to deliv
 🔗 **Try it here:**  
 👉 https://humandiseasedetectionbyvinisha.streamlit.app/
 
+⚠️ Note: The app may take ~30 seconds to load on first open (it goes to sleep when inactive).
+
 ---
 
 ## 🎯 Key Features
