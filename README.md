@@ -65,3 +65,40 @@ Built with **Streamlit**, it leverages multiple machine learning models to deliv
 │   └── *.pkl
 │
 └── 📄 README.md
+---
+
+## ⚙️ How It Works
+Mermaid
+flowchart LR
+A[User Inputs Symptoms] --> B[Streamlit Interface]
+B --> C[ML Models]
+C --> D[Predictions Generated]
+D --> E[Comparison Graphs]
+# 🛠️ Tech Stack
+- 🐍 Python
+- 🎈 Streamlit
+- 🤖 Scikit-learn
+- 📊 Pandas & NumPy
+- 📈 Matplotlib / Seaborn
+
+---
+
+## 👩‍💻 Authors
+- Vinisha Singh
+- Chitresh Mathur
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+# 💡 Feel free to:
+- Open an issue
+- Suggest new features
+- Submit a pull request
+## ⭐ Support
+If you like this project:
+- 🌟 Star this repository
+- 🍴 Fork it
+- 📢 Share it
+---
+Made with ❤️ using Machine Learning 
