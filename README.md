@@ -65,3 +65,12 @@ Human-Disease-Detection/
 │   └── *.pkl
 │
 └── README.md
+```
+## ⚙️ How It Works
+
+```mermaid
+flowchart LR
+A[User Inputs Symptoms] --> B[Streamlit Interface]
+B --> C[ML Models]
+C --> D[Predictions Generated]
+D --> E[Comparison Graphs]
