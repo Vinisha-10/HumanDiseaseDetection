@@ -25,7 +25,7 @@ Built with **Streamlit**, it leverages multiple machine learning models to deliv
 🔗 **Try it here:**  
 👉 https://humandiseasedetectionbyvinisha.streamlit.app/
 
-⚠️ Note: The app may take ~30 seconds to load on first open (it goes to sleep when inactive).
+⚠️ **Note:** The app may take ~30 seconds to load on first open (it goes to sleep when inactive).
 
 ---
 
@@ -48,58 +48,29 @@ Built with **Streamlit**, it leverages multiple machine learning models to deliv
 📊 **Visual Insights**  
 > Comparison graphs showing agreement across models  
 
-## ⚙️ How It Works
-Mermaid
-flowchart LR
-A[User Inputs Symptoms] --> B[Streamlit Interface]
-B --> C[ML Models]
-C --> D[Predictions Generated]
-D --> E[Comparison Graphs]
-# 🛠️ Tech Stack
-- 🐍 Python
-- 🎈 Streamlit
-- 🤖 Scikit-learn
-- 📊 Pandas & NumPy
-- 📈 Matplotlib / Seaborn
-
----
-
-## 👩‍💻 Authors
-- Vinisha Singh
-- Chitresh Mathur
-
----
-
-## 🤝 Contributing
-Contributions are welcome!
-# 💡 Feel free to:
-- Open an issue
-- Suggest new features
-- Submit a pull request
-## ⭐ Support
-If you like this project:
-- 🌟 Star this repository
-- 🍴 Fork it
-- 📢 Share it
----
-Made with ❤️ using Machine
 ---
 
 ## 🧩 Project Structure
 
 ```bash
-📁 Human-Disease-Detection
+Human-Disease-Detection/
 │
-├── 🧠 streamlit_app.py        # Main app interface
-├── 📓 models_training.ipynb   # Model training & evaluation
+├── streamlit_app.py        # Main app interface
+├── models_training.ipynb   # Model training & evaluation
 │
-├── 📂 datasets/              # Training data
+├── datasets/               # Training data
 │   └── symptoms_disease.csv
 │
-├── 📂 artifacts/             # Saved ML models
+├── artifacts/              # Saved ML models
 │   └── *.pkl
 │
-└── 📄 README.md
----
+└── README.md
 
- Learning 
+## ⚙️ How It Works
+
+```mermaid
+flowchart LR
+A[User Inputs Symptoms] --> B[Streamlit Interface]
+B --> C[ML Models]
+C --> D[Predictions Generated]
+D --> E[Comparison Graphs]
