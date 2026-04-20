@@ -100,5 +100,6 @@ If you like this project:
 - 🍴 Fork it
 - 📢 Share it
 
+---
 Made with ❤️ using Machine Learning 
-```
+
