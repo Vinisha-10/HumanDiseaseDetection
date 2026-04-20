@@ -85,15 +85,21 @@ D --> E[Comparison Graphs]
 
 ---
 
-👩‍💻 Authors
+## 👩‍💻 Authors
 - Vinisha Singh
 - Chitresh Mathur
+
+---
+
 ## 🤝 Contributing
 Contributions are welcome!
 ### 💡 Feel free to:
 - Open an issue
 - Suggest new features
 - Submit a pull request
+
+---
+
 ## ⭐ Support
 If you like this project:
 - 🌟 Star this repository
