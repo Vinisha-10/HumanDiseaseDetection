@@ -90,7 +90,7 @@ D --> E[Comparison Graphs]
 - Chitresh Mathur
 ## 🤝 Contributing
 Contributions are welcome!
-# 💡 Feel free to:
+### 💡 Feel free to:
 - Open an issue
 - Suggest new features
 - Submit a pull request
