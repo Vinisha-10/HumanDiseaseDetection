@@ -55,22 +55,13 @@ Built with **Streamlit**, it leverages multiple machine learning models to deliv
 ```bash
 Human-Disease-Detection/
 │
-├── streamlit_app.py        # Main app interface
-├── models_training.ipynb   # Model training & evaluation
+├── streamlit_app.py
+├── models_training.ipynb
 │
-├── datasets/               # Training data
+├── datasets/
 │   └── symptoms_disease.csv
 │
-├── artifacts/              # Saved ML models
+├── artifacts/
 │   └── *.pkl
 │
 └── README.md
-
-## ⚙️ How It Works
-
-```mermaid
-flowchart LR
-A[User Inputs Symptoms] --> B[Streamlit Interface]
-B --> C[ML Models]
-C --> D[Predictions Generated]
-D --> E[Comparison Graphs]
