@@ -48,25 +48,6 @@ Built with **Streamlit**, it leverages multiple machine learning models to deliv
 📊 **Visual Insights**  
 > Comparison graphs showing agreement across models  
 
----
-
-## 🧩 Project Structure
-
-```bash
-📁 Human-Disease-Detection
-│
-├── 🧠 streamlit_app.py        # Main app interface
-├── 📓 models_training.ipynb   # Model training & evaluation
-│
-├── 📂 datasets/              # Training data
-│   └── symptoms_disease.csv
-│
-├── 📂 artifacts/             # Saved ML models
-│   └── *.pkl
-│
-└── 📄 README.md
----
-
 ## ⚙️ How It Works
 Mermaid
 flowchart LR
@@ -101,4 +82,24 @@ If you like this project:
 - 🍴 Fork it
 - 📢 Share it
 ---
-Made with ❤️ using Machine Learning 
+Made with ❤️ using Machine
+---
+
+## 🧩 Project Structure
+
+```bash
+📁 Human-Disease-Detection
+│
+├── 🧠 streamlit_app.py        # Main app interface
+├── 📓 models_training.ipynb   # Model training & evaluation
+│
+├── 📂 datasets/              # Training data
+│   └── symptoms_disease.csv
+│
+├── 📂 artifacts/             # Saved ML models
+│   └── *.pkl
+│
+└── 📄 README.md
+---
+
+ Learning 
